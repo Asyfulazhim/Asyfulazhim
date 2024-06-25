@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently completing Machine Learning Proffesional Certificate
+- 🔭 I’m currently completing Machine Learning Proffesional Certificate at IEG Campus
 - 🌱 I’m currently learning Pyhon Machine LEarning and Data Science
 
 <!--

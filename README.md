@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 😁 I'm Asyful Azhim
+- 👾 Interested in Machine Learning and Artificial Intelligence
 - 🔭 I’m currently completing Machine Learning Proffesional Certificate at IEG Campus
 - 🌱 I’m currently learning Pyhon Machine LEarning and Data Science
 
